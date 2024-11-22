@@ -1,0 +1,9 @@
+{
+    "Configuration": {
+      "SourceInputFile": "original2.csv",
+      "InputSeparator": ",",
+      "CountOfParts": "11",
+      "OutputSeparator": ";",
+      "OutputEncoding" : "utf-8"
+    }
+  }
